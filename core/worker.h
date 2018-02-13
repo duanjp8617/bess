@@ -8,7 +8,7 @@
 #include "mclass.h"
 #include "pktbatch.h"
 
-#define MAX_WORKERS	4
+#define MAX_WORKERS	10
 
 #define MAX_MODULES_PER_PATH	256
 
